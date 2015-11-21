@@ -1,0 +1,2 @@
+To create image run this command on osx:
+sudo dd bs=1m if=path_of_your_image.img of=/dev/diskn
