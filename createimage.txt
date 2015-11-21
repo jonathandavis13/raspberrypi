@@ -1,2 +1,5 @@
+
 To create image run this command on osx:
+diskutil list
+diskutil unmountdisk /dev/diskn
 sudo dd bs=1m if=path_of_your_image.img of=/dev/diskn
